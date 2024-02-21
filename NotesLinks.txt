@@ -1,0 +1,6 @@
+For DSA Note, go through this.
+https://drive.google.com/file/d/1-At8WDyS6GekvmV80ksZuTOAeay0Oz4F/view
+
+For details of DSA and code samples, go through this.
+
+https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
